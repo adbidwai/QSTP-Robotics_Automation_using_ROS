@@ -28,7 +28,14 @@ Here are a learning resources to get you started. Apart from these the internet 
 - Sentdex's [playlist]([https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)) on python.
 - A few example ipython notebooks: [1]([https://github.com/SforAiDl/Deep-Learning-TIP/blob/master/Week_1/lesson1_part_1.ipynb](https://github.com/SforAiDl/Deep-Learning-TIP/blob/master/Week_1/lesson1_part_1.ipynb)), [2]([https://github.com/SforAiDl/Deep-Learning-TIP/blob/master/Week_1/lesson1_part_2.ipynb](https://github.com/SforAiDl/Deep-Learning-TIP/blob/master/Week_1/lesson1_part_2.ipynb)), [3]([https://github.com/SforAiDl/Deep-Learning-TIP/blob/master/Week_1/Lesson_2_numpy.ipynb](https://github.com/SforAiDl/Deep-Learning-TIP/blob/master/Week_1/Lesson_2_numpy.ipynb))  (credits SAIDL) 
 
+
 ### Tools
 Any kind of software development has a large ecosystem of tools built to make the task of programming as easy as possible. 
 
 1. **Git**: Fundamental tool in open source software development, it is used for version control and sharing of code. You are required to maintain a personal repository containing all your work related to the course and project. [This](https://rogerdudler.github.io/git-guide/) is a cool guide for a quick overview. For a more detailed introduction check out this [course](https://www.udacity.com/course/version-control-with-git--ud123) by Udacity or the official GitHub [guide](https://guides.github.com/introduction/git-handbook/).
+
+2. **Linux Terminal**: A terminal is a text based prompt which is used by the user to interact with the operating system of a computer. Many of the tools we will be using inluding ROS are terminal based so it is necessary to have at least some idea of how to use it. [This](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As) video series is a really nice guide. For those of you who are completely new to the terminal, we recommend going through the first 20 videos (dont worry, they are short videos and the subject matter is not at all difficult) of the series. 
+
+
+### Robotics Operating System (ROS)
+ROS is an extensive framework of  tools which can be used to build software to power robots with. We will be learning about it in much more detail next week. However to get an idea for what it is and why it exists you can check out these two short videos ([1](https://www.youtube.com/watch?v=UL1_Ue4rUWs), [2](https://www.youtube.com/watch?v=Qkm8VtdOds4))
