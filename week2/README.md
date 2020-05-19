@@ -18,14 +18,15 @@ ROS is an integral tool for most Robotics Automation Projects. It provides a col
 Apart from this the two main resources you should use are -
 -  _Programming Robots with ROS, by Morgan Quigley, Brian Gerkey and William D. Smart_: First 4 Chapters + Chapter 20
 - [_ROSwiki_](http://wiki.ros.org/ROS/Tutorials): Beginner Level tutorials
+
 Following and implenting the examples in either one should be suffiecient.
 
 By the end of the week you should  -
 
 1. Understand what ROS is and why it exists (Short explanation: [1](https://www.youtube.com/watch?v=J1qT85pTW0w&feature=youtu.be), [2](https://www.youtube.com/watch?v=UL1_Ue4rUWs))
-2. Understand Publisher-Subscriber Model and implementing a basic example (*Chapter 3* of Morgan Quigley)
-3. Understand Server-Client Model and implementing a basic example (*Chapter 4* of Morgan Quigley)
-4. Get familiar with ROS related command line tools such as `catkin`, `rosrun`, `roslaunch`, `roscd` (*Chapter 20* of Morgan Quigley)
+2. Understand Publisher-Subscriber Model and implementing a basic example (**Chapter 3** of Morgan Quigley)
+3. Understand Server-Client Model and implementing a basic example (**Chapter 4** of Morgan Quigley)
+4. Get familiar with ROS related command line tools such as `catkin`, `rosrun`, `roslaunch`, `roscd` (**Chapter 20** of Morgan Quigley)
 
 
 ## Robotics Simulation
