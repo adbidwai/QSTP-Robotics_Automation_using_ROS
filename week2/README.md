@@ -31,4 +31,10 @@ By the end of the week you should  -
 
 ## Robotics Simulation
 
-This section will be updated soon!
+Simulation is an important part of robotics since its lets us quickly deploy and test our code. It will be heavily used in this course to run and see visual results for all the code you write so its important to get familiar with the basics. A brief overvew of the Gazebo simulator and the turtlebot robot as well as how to implement basic functionality is given in Gazebo-Turtlebot-Intro.pdf
+
+By the end of this week you shoud -
+
+1. Understand the importance of simulation in robotics and know about the various available plaforms (**Chapter 6** of Morgan Quigley)
+2. Be comfortable with the turtlebot3 platform in gazebo (Turtlebot3 documentation: [1](http://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#turtlebot3-simulation-using-gazebo))
+2. Be able to write a ROS node to control turtlebot in gazebo (Short guide: [1](https://www.youtube.com/watch?v=yEwi1__NJrE))
