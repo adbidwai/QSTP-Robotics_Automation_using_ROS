@@ -38,3 +38,5 @@ By the end of this week you shoud -
 1. Understand the importance of simulation in robotics and know about the various available plaforms (**Chapter 6** of Morgan Quigley)
 2. Be comfortable with the turtlebot3 platform in gazebo (Turtlebot3 documentation: [1](http://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#turtlebot3-simulation-using-gazebo))
 2. Be able to write a ROS node to control turtlebot in gazebo (Short guide: [1](https://www.youtube.com/watch?v=yEwi1__NJrE))
+
+We reccomend that you play around with Turtlebot3 in gazebo yourself to get comfortable with the platform.
