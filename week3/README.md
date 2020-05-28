@@ -12,7 +12,7 @@ _Note : Although control theory is a very vast subject, the reading material for
 
 ## Resources
 
-If you find yourself interested in the subject of control theory, these ([1](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), [2](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)) video series by Brian Douglas and Steve Brunton are good comprehenensive resources to get started with. Note that these playlists cover a large amount of material. For basc robotics, watching the introductory videos and understanding the basic concepts should be enough. Although feel free to use these as reference materials for future endevours where you may need more advanced conepts to tackle your problems.
+If you find yourself interested in the subject of control theory, these ([1](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), [2](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)) video series by Brian Douglas and Steve Brunton are good comprehenensive resources to get started with. Note that these playlists cover a large amount of material. For basic robotics, watching the introductory videos and understanding the basic concepts should be enough. Although feel free to use these as reference materials for future endevours where you may need more advanced conepts to tackle your problems.
 
 [This](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) playlist by mathworks is a good place to understand the working of the PID controller.
 
