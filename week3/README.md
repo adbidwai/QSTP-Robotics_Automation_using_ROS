@@ -6,7 +6,7 @@ Welsome to Week 3. So far you have set up your ROS development environment and l
 2. Understand how a differential drive robot works
 3. Study the Proportional, Integral and Derivative (PID) controller
 
-Although control theory is a very vast subject, the reading material for this week will be relatively shorter as compared to the previous weeks as we won't be needing a detailed study of the subject for the project.
+_Note : Although control theory is a very vast subject, the reading material for this week will be relatively shorter as compared to the previous weeks as we won't be needing a detailed study of the subject for the project._
 
 ## Resources
 
