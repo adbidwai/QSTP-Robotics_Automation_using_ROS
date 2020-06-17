@@ -1,0 +1,5 @@
+<launch>
+    <node name="radius_publisher" pkg="week2" type="radius.py" />
+    <node name="server_node" pkg="week2" type="server.py" output="screen"/>
+    <node name="subscriber" pkg="week2" type="subscriber.py" output="screen"/>
+</launch>
