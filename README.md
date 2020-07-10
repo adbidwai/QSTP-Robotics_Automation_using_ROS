@@ -24,6 +24,12 @@ through the environment using one of the path planning algorithms you will have
 learned. You will then need to write a controller for a robot that you created (or a pre
 existing model in Gazebo) to traverse the path point by point to reach the goal.
 
+### Overview
+ - Week 1: Development Tools Setup 
+ - Week 2: Introduction to ROS
+ - Week 3: Introduction to Control Theory
+ - Week 4: Introduction to Path Planning
+ - Week 5: Final Project
 
 ### Team
  
