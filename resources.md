@@ -2,6 +2,7 @@
 #### Online Tutorials
 * [Official ROSWiki documentation](http://wiki.ros.org/)
 * [ROS tutorials by Clearpath Robotics](http://www.clearpathrobotics.com/assets/guides/kinetic/ros/)
+* [Tutorials for ROS Industrial](https://industrial-training-master.readthedocs.io/en/melodic/index.html) 
 
 #### Books
 * [A Gentle Introduction to ROS - Jason M O'Kane](https://cse.sc.edu/~jokane/agitr/)
