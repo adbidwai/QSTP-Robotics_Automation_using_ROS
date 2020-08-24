@@ -15,4 +15,4 @@
 * [Robotics Systems Lab - ETH Zurich](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 
 #### Articles
-* [How to strcture a Python-based ROS package](http://www.artificialhumancompanions.com/structure-python-based-ros-package/)
+* [How to structure a Python-based ROS package](http://www.artificialhumancompanions.com/structure-python-based-ros-package/)
