@@ -29,7 +29,9 @@ existing model in Gazebo) to traverse the path point by point to reach the goal.
  - Week 2: Introduction to ROS
  - Week 3: Introduction to Control Theory
  - Week 4: Introduction to Path Planning
- - Week 5: Final Project
+ - Week 5: Final Project <br/>
+ 
+ Please refer the [resources.md](https://github.com/adbidwai/QSTP-Robotics_Automation_using_ROS/blob/master/resources.md) for resources.
 
 ### Team
  
