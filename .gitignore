@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Solutions
+week1/Solutions
+week2/Solutions
