@@ -16,3 +16,14 @@
 
 #### Articles
 * [How to structure a Python-based ROS package](http://www.artificialhumancompanions.com/structure-python-based-ros-package/)
+* [ROS Noetic: What You Need to Know](https://varhowto.com/ros-noetic/)
+* [Getting started with new ROS Noetic Ninjemys](https://robocademy.com/2020/05/23/getting-started-with-new-ros-noetic-ninjemys/)
+
+#### Porting guides
+
+* [noetic/Migration](http://wiki.ros.org/noetic/Migration#:~:text=In%20your%20setup.py%20import,setuptools%20instead%20of%20distutils%2Dcore.&text=If%20your%20repository%20uses%20the,xml%20using%20format%203.)
+* [How to migrate a ROS project from ROS1 to ROS2](https://roboticsbackend.com/migrate-ros-project-from-ros1-to-ros2/)
+* [ROS1 to ROS2 porting](https://industrial-training-master.readthedocs.io/en/melodic/_source/session7/ROS1-to-ROS2-porting.html)
+* [Migration guide from ROS 1](https://docs.ros.org/en/foxy/Contributing/Migration-Guide.html)
+* [Porting a project from ROS1 to ROS2 — our experience](https://medium.com/husarion-blog/porting-a-project-from-ros1-to-ros2-our-experience-ef27b1748915)
+* [Porting Algorithms from ROS 1 to ROS 2](https://www.apex.ai/post/porting-algorithms-from-ros-1-to-ros-2)
