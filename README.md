@@ -38,4 +38,4 @@ existing model in Gazebo) to traverse the path point by point to reach the goal.
 [Aditya Bidwai](https://github.com/adbidwai)  
 [Atharv Sonwane](https://github.com/threewisemonkeys-as)  
 [Vedant Shah](https://github.com/veds12)  
-[Mohit Chaudhari]
+Mohit Chaudhari
